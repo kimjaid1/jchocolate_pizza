@@ -1,0 +1,17 @@
+body{
+    width: 1000px;
+    
+   
+}
+#imagesetOne {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+#imagesetTwo{
+   
+    
+}
+img{
+    margin: 2px;
+}
