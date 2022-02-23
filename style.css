@@ -1,17 +1,15 @@
-body{
-    width: 1000px;
-    
-   
+#one {
+    font-family: Yellowtail;
 }
-#imagesetOne {
-    display: flex;
-    justify-content: flex-end;
-    
+#two{
+    font-family: Chathura;
 }
-#imagesetTwo{
-   
-    
+#three{
+    font-family: Oswald;
 }
-img{
-    margin: 2px;
+#four{
+    font-family: Merriweather;
+}
+ul{
+    font-family: Patrick Hand;
 }
